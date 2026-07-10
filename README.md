@@ -65,3 +65,13 @@ AWS EC2 서버 안정적 구축 및 운영
 
 <p align="center">
   <img width="95%" alt="보안 분석 지표 2" src="https://github.com/user-attachments/assets/faf40ff0-ac95-4e8a-99d7-ac366842c58b" />
+
+  ### 실시간 침투 로그 및 전체 위협 통계 대시보드
+<p align="center">
+  <img width="95%" alt="전체 위협 통계 대시보드" src="https://github.com/user-attachments/assets/fd46db19-f55e-468b-9773-8b1496aa7916" />
+</p>
+
+### 위험도별 지표 및 세부 보안 분석 대시보드
+<p align="center">
+  <img width="95%" alt="세부 보안 분석 대시보드" src="https://github.com/user-attachments/assets/bc8f2448-0cfb-41c0-aafb-18fe613c319d" />
+</p>
