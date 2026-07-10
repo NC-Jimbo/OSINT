@@ -56,7 +56,18 @@ AWS EC2 서버 안정적 구축 및 운영 (m7i-flex.large 사양)
 팀원들이 동시에 개발할 수 있도록 계정 격리 및 개발 환경 통합 구성
 크롤러 실행 및 대시보드 연동을 위한 서버 환경 최적화
 (여기에 AWS EC2 터미널, crawler.py 실행 화면, 서버 파일 구조 이미지 삽입 추천)
+<p align="center">
+  <img width="95%" alt="React 대시보드 및 아키텍처" src="https://github.com/user-attachments/assets/2f5f1737-4448-4389-93ef-71f094c10fa1" />
+</p>
 
+<p align="center">
+  <img width="95%" alt="실시간 로그 대시보드" src="https://github.com/user-attachments/assets/fd46db19-f55e-468b-9773-8b1496aa7916" />
+</p>
+
+<p align="center">
+  <img width="48%" alt="보안 분석 지표 1" src="https://github.com/user-attachments/assets/bc8f2448-0cfb-41c0-aafb-18fe613c319d" />
+  <img width="48%" alt="보안 분석 지표 2" src="https://github.com/user-attachments/assets/faf40ff0-ac95-4e8a-99d7-ac366842c58b" />
+</p>
 
 
 프로젝트 결과물
