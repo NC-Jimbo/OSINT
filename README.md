@@ -63,17 +63,3 @@ AWS EC2 서버 안정적 구축 및 운영 (m7i-flex.large 사양)
 
 <p align="center">
   <img width="95%" alt="보안 분석 지표 2" src="https://github.com/user-attachments/assets/faf40ff0-ac95-4e8a-99d7-ac366842c58b" />
-</p>
-
-
-
-
-프로젝트 결과물
-<p align="center">
-  <img width="48%" alt="보안 분석 지표 1" src="https://github.com/user-attachments/assets/bc8f2448-0cfb-41c0-aafb-18fe613c319d" />
-  
-  <img width="95%" alt="실시간 로그 대시보드" src="https://github.com/user-attachments/assets/fd46db19-f55e-468b-9773-8b1496aa7916" />
-</p>
-
-React 대시보드 (위협 통계, 키워드 분석, 시간대별 분포)
-Slack 실시간 알림 예시
