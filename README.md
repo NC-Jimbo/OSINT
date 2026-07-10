@@ -21,7 +21,8 @@ User07: 최승윤
 기간: 2026년 3월 (총 16일)  
 팀 규모: 7명  
 GitHub: https://github.com/5verflow17-beep/OSINT/tree/user01  
-  
+user01 브랜치
+
 주요 기능  
 
 LockBit 랜섬웨어 사이트 크롤링  
@@ -66,12 +67,12 @@ AWS EC2 서버 안정적 구축 및 운영
 <p align="center">
   <img width="95%" alt="보안 분석 지표 2" src="https://github.com/user-attachments/assets/faf40ff0-ac95-4e8a-99d7-ac366842c58b" />
 
-  ### 실시간 침투 로그 및 전체 위협 통계 대시보드
+  ### 백엔드 크롤러(`crawler.py`) 인프라 구동 테스트
 <p align="center">
   <img width="95%" alt="전체 위협 통계 대시보드" src="https://github.com/user-attachments/assets/fd46db19-f55e-468b-9773-8b1496aa7916" />
 </p>
 
-### 위험도별 지표 및 세부 보안 분석 대시보드
+### 위험도별 실시간 위협 탐지 슬랙(Slack) 알림 연동
 <p align="center">
   <img width="95%" alt="세부 보안 분석 대시보드" src="https://github.com/user-attachments/assets/bc8f2448-0cfb-41c0-aafb-18fe613c319d" />
 </p>
