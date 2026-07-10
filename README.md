@@ -1,4 +1,4 @@
-[ 5verflow 팀원 계정 배정 현황 ]
+[ 5verflow 팀원 계정 배정 현황 ]  
 User01: 김상겸  
 User02: 장보근   
 User03: 전혜린  
@@ -24,39 +24,40 @@ GitHub: https://github.com/5verflow17-beep/OSINT/tree/user01
   
 주요 기능  
 
-LockBit 랜섬웨어 사이트 크롤링
-키워드 기반 위협 탐지 (기업명, 국가, 유출 정보 등)
-위험도별 Slack 실시간 알림 (HIGH / MEDIUM / LOW)
-React 기반 통합 모니터링 대시보드 (통계, 필터링, 요약 보고서)
-팀 구성 및 역할
-장보근 - 인프라 아키텍처 & 서버 담당
-
-AWS EC2 Ubuntu 서버 구축 및 전체 인프라 아키텍처 설계
-VSCode Remote-SSH 개발 환경 세팅 및 팀원 가이드 작성·교육
-
-팀원별 사용자 계정 생성 및 권한 격리 (계정 충돌 방지)
-Docker 컨테이너 환경 구축 및 Python 패키지 의존성 관리
-MySQL DB 연동 및 네트워크 설정 지원
-
-다른 팀원
-
-김상경: 전체 크롤러 개발, Slack 알림 서비스, DB 관리
-최승윤: React 대시보드 구현 및 데이터 시각화
-전혜린: 크롤링 대상 사이트 조사 및 다크웹 대체 사이트 탐지
-박소연: 크롤링 키워드 최적화 및 위험도 분류
-배수환: 프로젝트 기획 및 크롤링 사이트 조사
-신서영: 프로젝트 기획 및 발표 자료 제작
-기술 스택
-Backend: Python, Flask, BeautifulSoup4, PyMySQL, Tor Proxy
-Frontend: React, TypeScript, Recharts, Tailwind CSS
-Database / Infra: MySQL, AWS EC2 (Ubuntu)
-Alert: Slack
-
-나의 주요 기여 
-AWS EC2 서버 안정적 구축 및 운영 (m7i-flex.large 사양)
-팀원들이 동시에 개발할 수 있도록 계정 격리 및 개발 환경 통합 구성
-크롤러 실행 및 대시보드 연동을 위한 서버 환경 최적화
-(여기에 AWS EC2 터미널, crawler.py 실행 화면, 서버 파일 구조 이미지 삽입 추천)
+LockBit 랜섬웨어 사이트 크롤링  
+키워드 기반 위협 탐지 (기업명, 국가, 유출 정보 등)  
+위험도별 Slack 실시간 알림 (HIGH / MEDIUM / LOW)  
+React 기반 통합 모니터링 대시보드 (통계, 필터링, 요약 보고서)  
+팀 구성 및 역할  
+장보근 - 인프라 아키텍처 & 서버 담당  
+  
+AWS EC2 Ubuntu 서버 구축 및 전체 인프라 아키텍처 설계  
+VSCode Remote-SSH 개발 환경 세팅 및 팀원 가이드 작성·교육  
+  
+팀원별 사용자 계정 생성 및 권한 격리 (계정 충돌 방지)  
+Docker 컨테이너 환경 구축 및 Python 패키지 의존성 관리  
+MySQL DB 연동 및 네트워크 설정 지원  
+  
+다른 팀원  
+  
+김상경: 전체 크롤러 개발, Slack 알림 서비스, DB 관리  
+최승윤: React 대시보드 구현 및 데이터 시각화  
+전혜린: 크롤링 대상 사이트 조사 및 다크웹 대체 사이트 탐지  
+박소연: 크롤링 키워드 최적화 및 위험도 분류  
+배수환: 프로젝트 기획 및 크롤링 사이트 조사  
+신서영: 프로젝트 기획 및 발표 자료 제작  
+  
+기술 스택  
+Backend: Python, Flask, BeautifulSoup4, PyMySQL, Tor Proxy  
+Frontend: React, TypeScript, Recharts, Tailwind CSS  
+Database / Infra: MySQL, AWS EC2 (Ubuntu)  
+Alert: Slack  
+  
+나의 주요 기여   
+AWS EC2 서버 안정적 구축 및 운영    
+팀원들이 동시에 개발할 수 있도록 계정 격리 및 개발 환경 통합 구성  
+크롤러 실행 및 대시보드 연동을 위한 서버 환경 최적화  
+  
 
 <p align="center">
   <img width="95%" alt="React 대시보드 및 아키텍처" src="https://github.com/user-attachments/assets/2f5f1737-4448-4389-93ef-71f094c10fa1" />
